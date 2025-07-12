@@ -4,7 +4,7 @@ Proyek ini adalah contoh sederhana aplikasi sistem inventory gudang PT. Qualita 
 
 ## Deskripsi
 
-Aplikasi ini menerima input berupa nama dan kode Barang, dan memberikan output berupa informasi detail dari kode tersebut seperti jumlah stok, harga, jenis transaksi, dan junmlah keluar.
+Aplikasi ini menerima input berupa nama dan kode Barang, dan memberikan output berupa informasi detail dari kode tersebut seperti jumlah stok, harga, jenis transaksi, dan jumlah keluar.
 
 Aplikasi ini mengimplementasikan beberapa konsep penting dalam pemrograman berorientasi objek (OOP) seperti Class, Object, Atribut, Method Constructor, Method Mutator, Method Accessor, Encapsulation, Inheritance, Overloading, Overriding, Seleksi, Perulangan, IO Sederhana, Array, dan Error Handling.
 
